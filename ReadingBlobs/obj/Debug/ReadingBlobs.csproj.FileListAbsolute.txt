@@ -1,0 +1,6 @@
+C:\Git\My\ReadingBlobs\ReadingBlobs\bin\Debug\ReadingBlobs.exe.config
+C:\Git\My\ReadingBlobs\ReadingBlobs\bin\Debug\ReadingBlobs.exe
+C:\Git\My\ReadingBlobs\ReadingBlobs\bin\Debug\ReadingBlobs.pdb
+C:\Git\My\ReadingBlobs\ReadingBlobs\obj\Debug\ReadingBlobs.csprojResolveAssemblyReference.cache
+C:\Git\My\ReadingBlobs\ReadingBlobs\obj\Debug\ReadingBlobs.exe
+C:\Git\My\ReadingBlobs\ReadingBlobs\obj\Debug\ReadingBlobs.pdb
